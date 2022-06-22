@@ -1,0 +1,68 @@
+.navbox{
+    background-color: lightgray;
+}
+.navtext{
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #3A3B3C;
+    color: white;
+}
+.sidebar{
+    background-color: rgb(130, 130, 153);
+    width: 29%;
+    height: 1000px;
+    float: left;
+}
+.topcontent{
+    border: solid 2px;
+    margin: 20px;
+    padding: 20px;
+}
+.maincontent{
+    background-color: rgb(148, 190, 196);
+    width: 70%;
+    height: 1000px;
+    float: left;
+
+    
+}
+.sidebarpicture{
+    width: 40%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 20px;
+}
+.maincontentpicture{
+    width: 200px;
+    height: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    float: left;
+}
+.picturecaption{
+    text-align: center;
+}
+.maincontentheader{
+    font-weight:bold;
+    font-size: 50px;
+}
+.maincontentbody{
+    padding-left: 20px;
+}
+.subcontentimages{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding: 20px;
+}
+.bottomcontent{
+    border: solid 2px;
+    margin: 20px;
+    padding: 20px;
+}
